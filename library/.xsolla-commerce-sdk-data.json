@@ -1,0 +1,122 @@
+{
+  "68c110d5-f948-4025-a171-c091a33bbd29": {
+    "url": "db://xsolla-commerce-sdk/scripts",
+    "value": {}
+  },
+  "f86e3557-7260-4a41-bd05-9d0b784bd6f5": {
+    "url": "db://xsolla-commerce-sdk/scripts/api",
+    "value": {}
+  },
+  "99e63b9c-f2d6-4a22-8276-c1fa2e630fdd": {
+    "url": "db://xsolla-commerce-sdk/scripts/common",
+    "value": {}
+  },
+  "b9d4cb6b-bf0c-418b-afa8-7b83229a6f28": {
+    "url": "db://xsolla-commerce-sdk/scripts/core",
+    "value": {}
+  },
+  "b0f80095-27fe-4d8e-be39-fc4ff14bdb16": {
+    "url": "db://xsolla-commerce-sdk/scripts/Xsolla.ts",
+    "value": {}
+  },
+  "5194429a-4d60-4080-8767-3427d4dd5518": {
+    "url": "db://xsolla-commerce-sdk/scripts/api/XsollaAuth.ts",
+    "value": {}
+  },
+  "6c52273e-e631-4523-b8ac-4b188affe7ee": {
+    "url": "db://xsolla-commerce-sdk/scripts/api/XsollaCart.ts",
+    "value": {}
+  },
+  "f467c0bc-71c6-414d-9046-ed7a9cd422ee": {
+    "url": "db://xsolla-commerce-sdk/scripts/api/XsollaCatalog.ts",
+    "value": {}
+  },
+  "4314f256-375b-4292-8853-63fce87a0b8d": {
+    "url": "db://xsolla-commerce-sdk/scripts/api/XsollaInventory.ts",
+    "value": {}
+  },
+  "3673fdf5-fa36-414e-bb92-2a38dccbf3e6": {
+    "url": "db://xsolla-commerce-sdk/scripts/api/XsollaOrders.ts",
+    "value": {}
+  },
+  "fbc20909-612c-4779-9faf-3e1bd5178116": {
+    "url": "db://xsolla-commerce-sdk/scripts/api/XsollaSubscriptions.ts",
+    "value": {}
+  },
+  "6ef633b6-cdbd-4cd4-827d-f8b13563e97e": {
+    "url": "db://xsolla-commerce-sdk/scripts/api/XsollaUserAccount.ts",
+    "value": {}
+  },
+  "0fed5650-c61b-4a9d-8ddf-105e85556756": {
+    "url": "db://xsolla-commerce-sdk/scripts/common/BrowserUtil.ts",
+    "value": {}
+  },
+  "ed9586ce-e9a0-498d-9431-116270136f55": {
+    "url": "db://xsolla-commerce-sdk/scripts/common/CurrencyFormatter.ts",
+    "value": {}
+  },
+  "b90ecc10-54a5-4223-bc29-32e647c07034": {
+    "url": "db://xsolla-commerce-sdk/scripts/common/NativeUtil.ts",
+    "value": {}
+  },
+  "c4cd3ca5-cf12-4444-a05a-6633f27d6a33": {
+    "url": "db://xsolla-commerce-sdk/scripts/common/OrderCheckObject.ts",
+    "value": {}
+  },
+  "bbf76f43-264b-4e99-bd9e-dc4ac0db78a7": {
+    "url": "db://xsolla-commerce-sdk/scripts/common/OrderTracker.ts",
+    "value": {}
+  },
+  "5d335c60-058a-46d5-a9da-c16a64632b9c": {
+    "url": "db://xsolla-commerce-sdk/scripts/common/TokenParser.ts",
+    "value": {}
+  },
+  "d5ed92f2-4d7a-4872-be75-fb90a9cbfe7b": {
+    "url": "db://xsolla-commerce-sdk/scripts/common/TokenStorage.ts",
+    "value": {}
+  },
+  "e2c5e27c-249a-4f08-82ca-76375f1fcf9b": {
+    "url": "db://xsolla-commerce-sdk/scripts/core/Constants.ts",
+    "value": {}
+  },
+  "dbfcc7b2-f7c3-49d8-9b26-42bb669674e2": {
+    "url": "db://xsolla-commerce-sdk/scripts/core/Error.ts",
+    "value": {}
+  },
+  "699a731f-57fa-4f35-84b4-e63f9e620962": {
+    "url": "db://xsolla-commerce-sdk/scripts/core/Events.ts",
+    "value": {}
+  },
+  "0e0ad16a-2232-4899-a465-b022288999d2": {
+    "url": "db://xsolla-commerce-sdk/scripts/core/HttpUtil.ts",
+    "value": {}
+  },
+  "4549ed84-505b-44dc-a9ea-f43be1120726": {
+    "url": "db://xsolla-commerce-sdk/scripts/core/UrlBuilder.ts",
+    "value": {}
+  },
+  "650b8a10-77fa-49cb-b38f-0d97c57790e7": {
+    "url": "db://xsolla-commerce-sdk/CHANGELOG.en.md",
+    "value": {
+      "depends": []
+    }
+  },
+  "a515a131-8195-4f80-88ce-75bd665c3547": {
+    "url": "db://xsolla-commerce-sdk/CHANGELOG.zh.md",
+    "value": {
+      "depends": []
+    }
+  },
+  "514fb180-d9a1-40ce-b992-358eeb680855": {
+    "url": "db://xsolla-commerce-sdk/README.en.md",
+    "value": {
+      "depends": []
+    }
+  },
+  "e3a09102-643d-4b84-acf5-b3f4ef30d2f3": {
+    "url": "db://xsolla-commerce-sdk/README.zh.md",
+    "value": {
+      "depends": []
+    }
+  }
+}

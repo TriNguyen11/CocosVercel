@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Group 427318947",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 1080,
+      "height": 691
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 1080,
+      "height": 691
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -540,
+        -345.5,
+        0,
+        540,
+        -345.5,
+        0,
+        -540,
+        345.5,
+        0,
+        540,
+        345.5,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        0,
+        691,
+        1080,
+        691,
+        0,
+        0,
+        1080,
+        0
+      ],
+      "nuv": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1
+      ],
+      "minPos": {
+        "x": -540,
+        "y": -345.5,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 540,
+        "y": 345.5,
+        "z": 0
+      }
+    },
+    "texture": "75a97dbd-c4d8-48e3-9805-15d0c2d2ea9e@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

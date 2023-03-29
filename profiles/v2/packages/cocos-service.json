@@ -1,0 +1,232 @@
+{
+  "__version__": "3.0.6",
+  "builder": {
+    "options": {
+      "web-desktop": {
+        "configID": "10410f",
+        "services": [
+          {
+            "service_id": "235",
+            "service_component_name": "service-analytics",
+            "builder": "/Users/apple/.CocosCreator/.service/analytics/builder/builder.js",
+            "enable": false,
+            "params": {}
+          },
+          {
+            "service_id": "304",
+            "service_component_name": "service-agcauth",
+            "builder": "/Users/apple/.CocosCreator/.service/agcauth/src/builder/builder.js",
+            "enable": false,
+            "params": {}
+          }
+        ],
+        "__version__": "3.0.6"
+      },
+      "huawei-agc": {
+        "configID": "10410f",
+        "services": [
+          {
+            "service_id": "235",
+            "service_component_name": "service-analytics",
+            "builder": "/Users/apple/.CocosCreator/.service/analytics/builder/builder.js",
+            "enable": false,
+            "params": {}
+          },
+          {
+            "service_id": "304",
+            "service_component_name": "service-agcauth",
+            "builder": "/Users/apple/.CocosCreator/.service/agcauth/src/builder/builder.js",
+            "enable": false,
+            "params": {}
+          }
+        ]
+      },
+      "ios": {
+        "configID": "10410f",
+        "services": [],
+        "__version__": "3.0.5"
+      },
+      "android": {
+        "configID": "10410f",
+        "services": []
+      }
+    },
+    "taskOptionsMap": {
+      "1678425728378": {
+        "configID": "10410f",
+        "services": [
+          {
+            "service_id": "235",
+            "service_component_name": "service-analytics",
+            "builder": "/Users/apple/.CocosCreator/.service/analytics/builder/builder.js",
+            "enable": false,
+            "params": {}
+          },
+          {
+            "service_id": "304",
+            "service_component_name": "service-agcauth",
+            "builder": "/Users/apple/.CocosCreator/.service/agcauth/src/builder/builder.js",
+            "enable": false,
+            "params": {}
+          }
+        ]
+      },
+      "1678440568537": {
+        "configID": "10410f",
+        "services": [],
+        "__version__": "3.0.5"
+      },
+      "1678441047333": {
+        "configID": "10410f",
+        "services": [],
+        "__version__": "3.0.5"
+      },
+      "1678441047333}": {
+        "configID": "10410f",
+        "services": [],
+        "__version__": "3.0.5"
+      },
+      "1678816868688": {
+        "configID": "10410f",
+        "services": [],
+        "__version__": "3.0.6"
+      },
+      "1678820432067": {
+        "configID": "10410f",
+        "services": [],
+        "__version__": "3.0.6"
+      },
+      "1678876967031": {
+        "configID": "10410f",
+        "services": [],
+        "__version__": "3.0.6"
+      },
+      "1678885164832": {
+        "configID": "10410f",
+        "services": [],
+        "__version__": "3.0.6"
+      },
+      "1679506218899": {
+        "configID": "10410f",
+        "services": [],
+        "__version__": "3.0.6"
+      },
+      "1679508011604": {
+        "configID": "10410f",
+        "services": [],
+        "__version__": "3.0.6"
+      },
+      "1679510598037": {
+        "configID": "10410f",
+        "services": [],
+        "__version__": "3.0.6"
+      },
+      "1679510644749": {
+        "configID": "10410f",
+        "services": [],
+        "__version__": "3.0.6"
+      },
+      "1679547726335": {
+        "configID": "10410f",
+        "services": [],
+        "__version__": "3.0.6"
+      },
+      "1679552627498": {
+        "configID": "10410f",
+        "services": [],
+        "__version__": "3.0.6"
+      },
+      "1679553179955": {
+        "configID": "10410f",
+        "services": [],
+        "__version__": "3.0.6"
+      },
+      "1679885687395": {
+        "configID": "10410f",
+        "services": [],
+        "__version__": "3.0.6"
+      },
+      "1679996269924": {
+        "configID": "10410f",
+        "services": [
+          {
+            "service_id": "235",
+            "service_component_name": "service-analytics",
+            "builder": "/Users/apple/.CocosCreator/.service/analytics/builder/builder.js",
+            "enable": false,
+            "params": {}
+          },
+          {
+            "service_id": "304",
+            "service_component_name": "service-agcauth",
+            "builder": "/Users/apple/.CocosCreator/.service/agcauth/src/builder/builder.js",
+            "enable": false,
+            "params": {}
+          }
+        ],
+        "__version__": "3.0.6"
+      },
+      "1679996304884": {
+        "configID": "10410f",
+        "services": [
+          {
+            "service_id": "235",
+            "service_component_name": "service-analytics",
+            "builder": "/Users/apple/.CocosCreator/.service/analytics/builder/builder.js",
+            "enable": false,
+            "params": {}
+          },
+          {
+            "service_id": "304",
+            "service_component_name": "service-agcauth",
+            "builder": "/Users/apple/.CocosCreator/.service/agcauth/src/builder/builder.js",
+            "enable": false,
+            "params": {}
+          }
+        ],
+        "__version__": "3.0.6"
+      },
+      "1680066558763": {
+        "configID": "10410f",
+        "services": [
+          {
+            "service_id": "235",
+            "service_component_name": "service-analytics",
+            "builder": "/Users/apple/.CocosCreator/.service/analytics/builder/builder.js",
+            "enable": false,
+            "params": {}
+          },
+          {
+            "service_id": "304",
+            "service_component_name": "service-agcauth",
+            "builder": "/Users/apple/.CocosCreator/.service/agcauth/src/builder/builder.js",
+            "enable": false,
+            "params": {}
+          }
+        ],
+        "__version__": "3.0.6"
+      }
+    },
+    "__version__": "1.3.4"
+  },
+  "builder-options": {
+    "configID": "10410f",
+    "services": [
+      {
+        "service_id": "235",
+        "service_component_name": "service-analytics",
+        "builder": "/Users/apple/.CocosCreator/.service/analytics/builder/builder.js",
+        "enable": false,
+        "params": {}
+      },
+      {
+        "service_id": "304",
+        "service_component_name": "service-agcauth",
+        "builder": "/Users/apple/.CocosCreator/.service/agcauth/src/builder/builder.js",
+        "enable": false,
+        "params": {}
+      }
+    ],
+    "__version__": "3.0.6"
+  }
+}

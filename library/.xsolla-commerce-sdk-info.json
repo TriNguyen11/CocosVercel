@@ -1,0 +1,674 @@
+{
+  "/Users/zuno/Desktop/ZUNO/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts": {
+    "time": 1660791750000,
+    "uuid": "68c110d5-f948-4025-a171-c091a33bbd29",
+    "missing": false
+  },
+  "/Users/zuno/Desktop/ZUNO/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/api": {
+    "time": 1675846704000,
+    "uuid": "f86e3557-7260-4a41-bd05-9d0b784bd6f5",
+    "missing": false
+  },
+  "/Users/zuno/Desktop/ZUNO/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/common": {
+    "time": 1673325508000,
+    "uuid": "99e63b9c-f2d6-4a22-8276-c1fa2e630fdd",
+    "missing": false
+  },
+  "/Users/zuno/Desktop/ZUNO/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/core": {
+    "time": 1661315642000,
+    "uuid": "b9d4cb6b-bf0c-418b-afa8-7b83229a6f28",
+    "missing": false
+  },
+  "/Users/zuno/Desktop/ZUNO/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/Xsolla.ts": {
+    "time": 1660791750000,
+    "uuid": "b0f80095-27fe-4d8e-be39-fc4ff14bdb16",
+    "missing": false
+  },
+  "/Users/zuno/Desktop/ZUNO/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/api/XsollaAuth.ts": {
+    "time": 1660791750000,
+    "uuid": "5194429a-4d60-4080-8767-3427d4dd5518",
+    "missing": false
+  },
+  "/Users/zuno/Desktop/ZUNO/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/api/XsollaCart.ts": {
+    "time": 1675846704000,
+    "uuid": "6c52273e-e631-4523-b8ac-4b188affe7ee",
+    "missing": false
+  },
+  "/Users/zuno/Desktop/ZUNO/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/api/XsollaCatalog.ts": {
+    "time": 1675846704000,
+    "uuid": "f467c0bc-71c6-414d-9046-ed7a9cd422ee",
+    "missing": false
+  },
+  "/Users/zuno/Desktop/ZUNO/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/api/XsollaInventory.ts": {
+    "time": 1660791750000,
+    "uuid": "4314f256-375b-4292-8853-63fce87a0b8d",
+    "missing": false
+  },
+  "/Users/zuno/Desktop/ZUNO/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/api/XsollaOrders.ts": {
+    "time": 1673325508000,
+    "uuid": "3673fdf5-fa36-414e-bb92-2a38dccbf3e6",
+    "missing": false
+  },
+  "/Users/zuno/Desktop/ZUNO/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/api/XsollaSubscriptions.ts": {
+    "time": 1661315642000,
+    "uuid": "fbc20909-612c-4779-9faf-3e1bd5178116",
+    "missing": false
+  },
+  "/Users/zuno/Desktop/ZUNO/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/api/XsollaUserAccount.ts": {
+    "time": 1660791750000,
+    "uuid": "6ef633b6-cdbd-4cd4-827d-f8b13563e97e",
+    "missing": false
+  },
+  "/Users/zuno/Desktop/ZUNO/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/common/BrowserUtil.ts": {
+    "time": 1673325508000,
+    "uuid": "0fed5650-c61b-4a9d-8ddf-105e85556756",
+    "missing": false
+  },
+  "/Users/zuno/Desktop/ZUNO/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/common/CurrencyFormatter.ts": {
+    "time": 1660791750000,
+    "uuid": "ed9586ce-e9a0-498d-9431-116270136f55",
+    "missing": false
+  },
+  "/Users/zuno/Desktop/ZUNO/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/common/NativeUtil.ts": {
+    "time": 1660791750000,
+    "uuid": "b90ecc10-54a5-4223-bc29-32e647c07034",
+    "missing": false
+  },
+  "/Users/zuno/Desktop/ZUNO/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/common/OrderCheckObject.ts": {
+    "time": 1673325508000,
+    "uuid": "c4cd3ca5-cf12-4444-a05a-6633f27d6a33",
+    "missing": false
+  },
+  "/Users/zuno/Desktop/ZUNO/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/common/OrderTracker.ts": {
+    "time": 1673325508000,
+    "uuid": "bbf76f43-264b-4e99-bd9e-dc4ac0db78a7",
+    "missing": false
+  },
+  "/Users/zuno/Desktop/ZUNO/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/common/TokenParser.ts": {
+    "time": 1660791750000,
+    "uuid": "5d335c60-058a-46d5-a9da-c16a64632b9c",
+    "missing": false
+  },
+  "/Users/zuno/Desktop/ZUNO/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/common/TokenStorage.ts": {
+    "time": 1660791750000,
+    "uuid": "d5ed92f2-4d7a-4872-be75-fb90a9cbfe7b",
+    "missing": false
+  },
+  "/Users/zuno/Desktop/ZUNO/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/core/Constants.ts": {
+    "time": 1660791750000,
+    "uuid": "e2c5e27c-249a-4f08-82ca-76375f1fcf9b",
+    "missing": false
+  },
+  "/Users/zuno/Desktop/ZUNO/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/core/Error.ts": {
+    "time": 1660791750000,
+    "uuid": "dbfcc7b2-f7c3-49d8-9b26-42bb669674e2",
+    "missing": false
+  },
+  "/Users/zuno/Desktop/ZUNO/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/core/Events.ts": {
+    "time": 1660791750000,
+    "uuid": "699a731f-57fa-4f35-84b4-e63f9e620962",
+    "missing": false
+  },
+  "/Users/zuno/Desktop/ZUNO/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/core/HttpUtil.ts": {
+    "time": 1660791750000,
+    "uuid": "0e0ad16a-2232-4899-a465-b022288999d2",
+    "missing": false
+  },
+  "/Users/zuno/Desktop/ZUNO/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/core/UrlBuilder.ts": {
+    "time": 1661315642000,
+    "uuid": "4549ed84-505b-44dc-a9ea-f43be1120726",
+    "missing": false
+  },
+  "/Users/zuno/Desktop/ZUNO/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts.meta": {
+    "time": 1635572864000
+  },
+  "/Users/zuno/Desktop/ZUNO/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/api.meta": {
+    "time": 1635572864000
+  },
+  "/Users/zuno/Desktop/ZUNO/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/common.meta": {
+    "time": 1660791750000
+  },
+  "/Users/zuno/Desktop/ZUNO/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/core.meta": {
+    "time": 1635572864000
+  },
+  "/Users/zuno/Desktop/ZUNO/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/Xsolla.ts.meta": {
+    "time": 1678869276408.3862
+  },
+  "/Users/zuno/Desktop/ZUNO/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/api/XsollaAuth.ts.meta": {
+    "time": 1678869276409.2292
+  },
+  "/Users/zuno/Desktop/ZUNO/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/api/XsollaCart.ts.meta": {
+    "time": 1678869276410.0745
+  },
+  "/Users/zuno/Desktop/ZUNO/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/api/XsollaCatalog.ts.meta": {
+    "time": 1678869276410.6023
+  },
+  "/Users/zuno/Desktop/ZUNO/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/api/XsollaInventory.ts.meta": {
+    "time": 1678869276410.8958
+  },
+  "/Users/zuno/Desktop/ZUNO/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/api/XsollaOrders.ts.meta": {
+    "time": 1678869276412.833
+  },
+  "/Users/zuno/Desktop/ZUNO/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/api/XsollaSubscriptions.ts.meta": {
+    "time": 1678869276414.457
+  },
+  "/Users/zuno/Desktop/ZUNO/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/api/XsollaUserAccount.ts.meta": {
+    "time": 1678869276415.2976
+  },
+  "/Users/zuno/Desktop/ZUNO/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/common/BrowserUtil.ts.meta": {
+    "time": 1678869276415.531
+  },
+  "/Users/zuno/Desktop/ZUNO/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/common/CurrencyFormatter.ts.meta": {
+    "time": 1678869276415.7437
+  },
+  "/Users/zuno/Desktop/ZUNO/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/common/NativeUtil.ts.meta": {
+    "time": 1678869276417.697
+  },
+  "/Users/zuno/Desktop/ZUNO/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/common/OrderCheckObject.ts.meta": {
+    "time": 1678869276418.4097
+  },
+  "/Users/zuno/Desktop/ZUNO/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/common/OrderTracker.ts.meta": {
+    "time": 1678869276419.0051
+  },
+  "/Users/zuno/Desktop/ZUNO/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/common/TokenParser.ts.meta": {
+    "time": 1678869276419.2178
+  },
+  "/Users/zuno/Desktop/ZUNO/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/common/TokenStorage.ts.meta": {
+    "time": 1678869276419.431
+  },
+  "/Users/zuno/Desktop/ZUNO/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/core/Constants.ts.meta": {
+    "time": 1678869276420.5652
+  },
+  "/Users/zuno/Desktop/ZUNO/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/core/Error.ts.meta": {
+    "time": 1678869276420.9304
+  },
+  "/Users/zuno/Desktop/ZUNO/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/core/Events.ts.meta": {
+    "time": 1678869276421.337
+  },
+  "/Users/zuno/Desktop/ZUNO/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/core/HttpUtil.ts.meta": {
+    "time": 1678869276421.5774
+  },
+  "/Users/zuno/Desktop/ZUNO/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/core/UrlBuilder.ts.meta": {
+    "time": 1678869276421.893
+  },
+  "/Users/zuno/Desktop/ZUNO/coco-poker/extensions/xsolla-commerce-sdk/assets/CHANGELOG.en.md": {
+    "time": 1675846434000,
+    "uuid": "650b8a10-77fa-49cb-b38f-0d97c57790e7",
+    "missing": false
+  },
+  "/Users/zuno/Desktop/ZUNO/coco-poker/extensions/xsolla-commerce-sdk/assets/CHANGELOG.zh.md": {
+    "time": 1675846434000,
+    "uuid": "a515a131-8195-4f80-88ce-75bd665c3547",
+    "missing": false
+  },
+  "/Users/zuno/Desktop/ZUNO/coco-poker/extensions/xsolla-commerce-sdk/assets/README.en.md": {
+    "time": 1660791750000,
+    "uuid": "514fb180-d9a1-40ce-b992-358eeb680855",
+    "missing": false
+  },
+  "/Users/zuno/Desktop/ZUNO/coco-poker/extensions/xsolla-commerce-sdk/assets/README.zh.md": {
+    "time": 1660791750000,
+    "uuid": "e3a09102-643d-4b84-acf5-b3f4ef30d2f3",
+    "missing": false
+  },
+  "/Users/zuno/Desktop/ZUNO/coco-poker/extensions/xsolla-commerce-sdk/assets/CHANGELOG.en.md.meta": {
+    "time": 1678869276514.7295
+  },
+  "/Users/zuno/Desktop/ZUNO/coco-poker/extensions/xsolla-commerce-sdk/assets/README.en.md.meta": {
+    "time": 1678869276515.4338
+  },
+  "/Users/zuno/Desktop/ZUNO/coco-poker/extensions/xsolla-commerce-sdk/assets/README.zh.md.meta": {
+    "time": 1678869276516.2104
+  },
+  "/Users/zuno/Desktop/ZUNO/coco-poker/extensions/xsolla-commerce-sdk/assets/CHANGELOG.zh.md.meta": {
+    "time": 1678869276516.6445
+  },
+  "D:\\GameWork\\coco-poker\\extensions\\xsolla-commerce-sdk\\assets\\scripts": {
+    "time": 1660791750000,
+    "uuid": "68c110d5-f948-4025-a171-c091a33bbd29",
+    "missing": false
+  },
+  "D:\\GameWork\\coco-poker\\extensions\\xsolla-commerce-sdk\\assets\\scripts\\api": {
+    "time": 1675846704000,
+    "uuid": "f86e3557-7260-4a41-bd05-9d0b784bd6f5",
+    "missing": false
+  },
+  "D:\\GameWork\\coco-poker\\extensions\\xsolla-commerce-sdk\\assets\\scripts\\common": {
+    "time": 1673325508000,
+    "uuid": "99e63b9c-f2d6-4a22-8276-c1fa2e630fdd",
+    "missing": false
+  },
+  "D:\\GameWork\\coco-poker\\extensions\\xsolla-commerce-sdk\\assets\\scripts\\core": {
+    "time": 1661315642000,
+    "uuid": "b9d4cb6b-bf0c-418b-afa8-7b83229a6f28",
+    "missing": false
+  },
+  "D:\\GameWork\\coco-poker\\extensions\\xsolla-commerce-sdk\\assets\\scripts\\Xsolla.ts": {
+    "time": 1660791750000,
+    "uuid": "b0f80095-27fe-4d8e-be39-fc4ff14bdb16",
+    "missing": false
+  },
+  "D:\\GameWork\\coco-poker\\extensions\\xsolla-commerce-sdk\\assets\\scripts\\api\\XsollaAuth.ts": {
+    "time": 1660791750000,
+    "uuid": "5194429a-4d60-4080-8767-3427d4dd5518",
+    "missing": false
+  },
+  "D:\\GameWork\\coco-poker\\extensions\\xsolla-commerce-sdk\\assets\\scripts\\api\\XsollaCart.ts": {
+    "time": 1675846704000,
+    "uuid": "6c52273e-e631-4523-b8ac-4b188affe7ee",
+    "missing": false
+  },
+  "D:\\GameWork\\coco-poker\\extensions\\xsolla-commerce-sdk\\assets\\scripts\\api\\XsollaCatalog.ts": {
+    "time": 1675846704000,
+    "uuid": "f467c0bc-71c6-414d-9046-ed7a9cd422ee",
+    "missing": false
+  },
+  "D:\\GameWork\\coco-poker\\extensions\\xsolla-commerce-sdk\\assets\\scripts\\api\\XsollaInventory.ts": {
+    "time": 1660791750000,
+    "uuid": "4314f256-375b-4292-8853-63fce87a0b8d",
+    "missing": false
+  },
+  "D:\\GameWork\\coco-poker\\extensions\\xsolla-commerce-sdk\\assets\\scripts\\api\\XsollaOrders.ts": {
+    "time": 1673325508000,
+    "uuid": "3673fdf5-fa36-414e-bb92-2a38dccbf3e6",
+    "missing": false
+  },
+  "D:\\GameWork\\coco-poker\\extensions\\xsolla-commerce-sdk\\assets\\scripts\\api\\XsollaSubscriptions.ts": {
+    "time": 1661315642000,
+    "uuid": "fbc20909-612c-4779-9faf-3e1bd5178116",
+    "missing": false
+  },
+  "D:\\GameWork\\coco-poker\\extensions\\xsolla-commerce-sdk\\assets\\scripts\\api\\XsollaUserAccount.ts": {
+    "time": 1660791750000,
+    "uuid": "6ef633b6-cdbd-4cd4-827d-f8b13563e97e",
+    "missing": false
+  },
+  "D:\\GameWork\\coco-poker\\extensions\\xsolla-commerce-sdk\\assets\\scripts\\common\\BrowserUtil.ts": {
+    "time": 1673325508000,
+    "uuid": "0fed5650-c61b-4a9d-8ddf-105e85556756",
+    "missing": false
+  },
+  "D:\\GameWork\\coco-poker\\extensions\\xsolla-commerce-sdk\\assets\\scripts\\common\\CurrencyFormatter.ts": {
+    "time": 1660791750000,
+    "uuid": "ed9586ce-e9a0-498d-9431-116270136f55",
+    "missing": false
+  },
+  "D:\\GameWork\\coco-poker\\extensions\\xsolla-commerce-sdk\\assets\\scripts\\common\\NativeUtil.ts": {
+    "time": 1660791750000,
+    "uuid": "b90ecc10-54a5-4223-bc29-32e647c07034",
+    "missing": false
+  },
+  "D:\\GameWork\\coco-poker\\extensions\\xsolla-commerce-sdk\\assets\\scripts\\common\\OrderCheckObject.ts": {
+    "time": 1673325508000,
+    "uuid": "c4cd3ca5-cf12-4444-a05a-6633f27d6a33",
+    "missing": false
+  },
+  "D:\\GameWork\\coco-poker\\extensions\\xsolla-commerce-sdk\\assets\\scripts\\common\\OrderTracker.ts": {
+    "time": 1673325508000,
+    "uuid": "bbf76f43-264b-4e99-bd9e-dc4ac0db78a7",
+    "missing": false
+  },
+  "D:\\GameWork\\coco-poker\\extensions\\xsolla-commerce-sdk\\assets\\scripts\\common\\TokenParser.ts": {
+    "time": 1660791750000,
+    "uuid": "5d335c60-058a-46d5-a9da-c16a64632b9c",
+    "missing": false
+  },
+  "D:\\GameWork\\coco-poker\\extensions\\xsolla-commerce-sdk\\assets\\scripts\\common\\TokenStorage.ts": {
+    "time": 1660791750000,
+    "uuid": "d5ed92f2-4d7a-4872-be75-fb90a9cbfe7b",
+    "missing": false
+  },
+  "D:\\GameWork\\coco-poker\\extensions\\xsolla-commerce-sdk\\assets\\scripts\\core\\Constants.ts": {
+    "time": 1660791750000,
+    "uuid": "e2c5e27c-249a-4f08-82ca-76375f1fcf9b",
+    "missing": false
+  },
+  "D:\\GameWork\\coco-poker\\extensions\\xsolla-commerce-sdk\\assets\\scripts\\core\\Error.ts": {
+    "time": 1660791750000,
+    "uuid": "dbfcc7b2-f7c3-49d8-9b26-42bb669674e2",
+    "missing": false
+  },
+  "D:\\GameWork\\coco-poker\\extensions\\xsolla-commerce-sdk\\assets\\scripts\\core\\Events.ts": {
+    "time": 1660791750000,
+    "uuid": "699a731f-57fa-4f35-84b4-e63f9e620962",
+    "missing": false
+  },
+  "D:\\GameWork\\coco-poker\\extensions\\xsolla-commerce-sdk\\assets\\scripts\\core\\HttpUtil.ts": {
+    "time": 1660791750000,
+    "uuid": "0e0ad16a-2232-4899-a465-b022288999d2",
+    "missing": false
+  },
+  "D:\\GameWork\\coco-poker\\extensions\\xsolla-commerce-sdk\\assets\\scripts\\core\\UrlBuilder.ts": {
+    "time": 1661315642000,
+    "uuid": "4549ed84-505b-44dc-a9ea-f43be1120726",
+    "missing": false
+  },
+  "D:\\GameWork\\coco-poker\\extensions\\xsolla-commerce-sdk\\assets\\scripts.meta": {
+    "time": 1635572864000
+  },
+  "D:\\GameWork\\coco-poker\\extensions\\xsolla-commerce-sdk\\assets\\scripts\\api.meta": {
+    "time": 1635572864000
+  },
+  "D:\\GameWork\\coco-poker\\extensions\\xsolla-commerce-sdk\\assets\\scripts\\common.meta": {
+    "time": 1660791750000
+  },
+  "D:\\GameWork\\coco-poker\\extensions\\xsolla-commerce-sdk\\assets\\scripts\\core.meta": {
+    "time": 1635572864000
+  },
+  "D:\\GameWork\\coco-poker\\extensions\\xsolla-commerce-sdk\\assets\\scripts\\Xsolla.ts.meta": {
+    "time": 1678869276000
+  },
+  "D:\\GameWork\\coco-poker\\extensions\\xsolla-commerce-sdk\\assets\\scripts\\api\\XsollaAuth.ts.meta": {
+    "time": 1678869276000
+  },
+  "D:\\GameWork\\coco-poker\\extensions\\xsolla-commerce-sdk\\assets\\scripts\\api\\XsollaCart.ts.meta": {
+    "time": 1678869276000
+  },
+  "D:\\GameWork\\coco-poker\\extensions\\xsolla-commerce-sdk\\assets\\scripts\\api\\XsollaCatalog.ts.meta": {
+    "time": 1678869276000
+  },
+  "D:\\GameWork\\coco-poker\\extensions\\xsolla-commerce-sdk\\assets\\scripts\\api\\XsollaInventory.ts.meta": {
+    "time": 1678869276000
+  },
+  "D:\\GameWork\\coco-poker\\extensions\\xsolla-commerce-sdk\\assets\\scripts\\api\\XsollaOrders.ts.meta": {
+    "time": 1678869276000
+  },
+  "D:\\GameWork\\coco-poker\\extensions\\xsolla-commerce-sdk\\assets\\scripts\\api\\XsollaSubscriptions.ts.meta": {
+    "time": 1678869276000
+  },
+  "D:\\GameWork\\coco-poker\\extensions\\xsolla-commerce-sdk\\assets\\scripts\\api\\XsollaUserAccount.ts.meta": {
+    "time": 1678869276000
+  },
+  "D:\\GameWork\\coco-poker\\extensions\\xsolla-commerce-sdk\\assets\\scripts\\common\\BrowserUtil.ts.meta": {
+    "time": 1678869276000
+  },
+  "D:\\GameWork\\coco-poker\\extensions\\xsolla-commerce-sdk\\assets\\scripts\\common\\CurrencyFormatter.ts.meta": {
+    "time": 1678869276000
+  },
+  "D:\\GameWork\\coco-poker\\extensions\\xsolla-commerce-sdk\\assets\\scripts\\common\\NativeUtil.ts.meta": {
+    "time": 1678869276000
+  },
+  "D:\\GameWork\\coco-poker\\extensions\\xsolla-commerce-sdk\\assets\\scripts\\common\\OrderCheckObject.ts.meta": {
+    "time": 1678869276000
+  },
+  "D:\\GameWork\\coco-poker\\extensions\\xsolla-commerce-sdk\\assets\\scripts\\common\\OrderTracker.ts.meta": {
+    "time": 1678869276000
+  },
+  "D:\\GameWork\\coco-poker\\extensions\\xsolla-commerce-sdk\\assets\\scripts\\common\\TokenParser.ts.meta": {
+    "time": 1678869276000
+  },
+  "D:\\GameWork\\coco-poker\\extensions\\xsolla-commerce-sdk\\assets\\scripts\\common\\TokenStorage.ts.meta": {
+    "time": 1678869276000
+  },
+  "D:\\GameWork\\coco-poker\\extensions\\xsolla-commerce-sdk\\assets\\scripts\\core\\Constants.ts.meta": {
+    "time": 1678869276000
+  },
+  "D:\\GameWork\\coco-poker\\extensions\\xsolla-commerce-sdk\\assets\\scripts\\core\\Error.ts.meta": {
+    "time": 1678869276000
+  },
+  "D:\\GameWork\\coco-poker\\extensions\\xsolla-commerce-sdk\\assets\\scripts\\core\\Events.ts.meta": {
+    "time": 1678869276000
+  },
+  "D:\\GameWork\\coco-poker\\extensions\\xsolla-commerce-sdk\\assets\\scripts\\core\\HttpUtil.ts.meta": {
+    "time": 1678869276000
+  },
+  "D:\\GameWork\\coco-poker\\extensions\\xsolla-commerce-sdk\\assets\\scripts\\core\\UrlBuilder.ts.meta": {
+    "time": 1678869276000
+  },
+  "D:\\GameWork\\coco-poker\\extensions\\xsolla-commerce-sdk\\assets\\CHANGELOG.en.md": {
+    "time": 1675846434000,
+    "uuid": "650b8a10-77fa-49cb-b38f-0d97c57790e7",
+    "missing": false
+  },
+  "D:\\GameWork\\coco-poker\\extensions\\xsolla-commerce-sdk\\assets\\CHANGELOG.zh.md": {
+    "time": 1675846434000,
+    "uuid": "a515a131-8195-4f80-88ce-75bd665c3547",
+    "missing": false
+  },
+  "D:\\GameWork\\coco-poker\\extensions\\xsolla-commerce-sdk\\assets\\README.en.md": {
+    "time": 1660791750000,
+    "uuid": "514fb180-d9a1-40ce-b992-358eeb680855",
+    "missing": false
+  },
+  "D:\\GameWork\\coco-poker\\extensions\\xsolla-commerce-sdk\\assets\\README.zh.md": {
+    "time": 1660791750000,
+    "uuid": "e3a09102-643d-4b84-acf5-b3f4ef30d2f3",
+    "missing": false
+  },
+  "D:\\GameWork\\coco-poker\\extensions\\xsolla-commerce-sdk\\assets\\CHANGELOG.en.md.meta": {
+    "time": 1678869276000
+  },
+  "D:\\GameWork\\coco-poker\\extensions\\xsolla-commerce-sdk\\assets\\README.en.md.meta": {
+    "time": 1678869276000
+  },
+  "D:\\GameWork\\coco-poker\\extensions\\xsolla-commerce-sdk\\assets\\CHANGELOG.zh.md.meta": {
+    "time": 1678869276000
+  },
+  "D:\\GameWork\\coco-poker\\extensions\\xsolla-commerce-sdk\\assets\\README.zh.md.meta": {
+    "time": 1678869276000
+  },
+  "/Users/apple/Documents/final/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts": {
+    "time": 1660791750000,
+    "uuid": "68c110d5-f948-4025-a171-c091a33bbd29",
+    "missing": false
+  },
+  "/Users/apple/Documents/final/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/api": {
+    "time": 1675846704000,
+    "uuid": "f86e3557-7260-4a41-bd05-9d0b784bd6f5",
+    "missing": false
+  },
+  "/Users/apple/Documents/final/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/common": {
+    "time": 1673325508000,
+    "uuid": "99e63b9c-f2d6-4a22-8276-c1fa2e630fdd",
+    "missing": false
+  },
+  "/Users/apple/Documents/final/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/core": {
+    "time": 1661315642000,
+    "uuid": "b9d4cb6b-bf0c-418b-afa8-7b83229a6f28",
+    "missing": false
+  },
+  "/Users/apple/Documents/final/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/Xsolla.ts": {
+    "time": 1660791750000,
+    "uuid": "b0f80095-27fe-4d8e-be39-fc4ff14bdb16",
+    "missing": false
+  },
+  "/Users/apple/Documents/final/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/api/XsollaAuth.ts": {
+    "time": 1660791750000,
+    "uuid": "5194429a-4d60-4080-8767-3427d4dd5518",
+    "missing": false
+  },
+  "/Users/apple/Documents/final/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/api/XsollaCart.ts": {
+    "time": 1675846704000,
+    "uuid": "6c52273e-e631-4523-b8ac-4b188affe7ee",
+    "missing": false
+  },
+  "/Users/apple/Documents/final/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/api/XsollaCatalog.ts": {
+    "time": 1675846704000,
+    "uuid": "f467c0bc-71c6-414d-9046-ed7a9cd422ee",
+    "missing": false
+  },
+  "/Users/apple/Documents/final/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/api/XsollaInventory.ts": {
+    "time": 1660791750000,
+    "uuid": "4314f256-375b-4292-8853-63fce87a0b8d",
+    "missing": false
+  },
+  "/Users/apple/Documents/final/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/api/XsollaOrders.ts": {
+    "time": 1673325508000,
+    "uuid": "3673fdf5-fa36-414e-bb92-2a38dccbf3e6",
+    "missing": false
+  },
+  "/Users/apple/Documents/final/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/api/XsollaSubscriptions.ts": {
+    "time": 1661315642000,
+    "uuid": "fbc20909-612c-4779-9faf-3e1bd5178116",
+    "missing": false
+  },
+  "/Users/apple/Documents/final/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/api/XsollaUserAccount.ts": {
+    "time": 1660791750000,
+    "uuid": "6ef633b6-cdbd-4cd4-827d-f8b13563e97e",
+    "missing": false
+  },
+  "/Users/apple/Documents/final/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/common/BrowserUtil.ts": {
+    "time": 1673325508000,
+    "uuid": "0fed5650-c61b-4a9d-8ddf-105e85556756",
+    "missing": false
+  },
+  "/Users/apple/Documents/final/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/common/CurrencyFormatter.ts": {
+    "time": 1660791750000,
+    "uuid": "ed9586ce-e9a0-498d-9431-116270136f55",
+    "missing": false
+  },
+  "/Users/apple/Documents/final/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/common/NativeUtil.ts": {
+    "time": 1660791750000,
+    "uuid": "b90ecc10-54a5-4223-bc29-32e647c07034",
+    "missing": false
+  },
+  "/Users/apple/Documents/final/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/common/OrderCheckObject.ts": {
+    "time": 1673325508000,
+    "uuid": "c4cd3ca5-cf12-4444-a05a-6633f27d6a33",
+    "missing": false
+  },
+  "/Users/apple/Documents/final/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/common/OrderTracker.ts": {
+    "time": 1673325508000,
+    "uuid": "bbf76f43-264b-4e99-bd9e-dc4ac0db78a7",
+    "missing": false
+  },
+  "/Users/apple/Documents/final/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/common/TokenParser.ts": {
+    "time": 1660791750000,
+    "uuid": "5d335c60-058a-46d5-a9da-c16a64632b9c",
+    "missing": false
+  },
+  "/Users/apple/Documents/final/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/common/TokenStorage.ts": {
+    "time": 1660791750000,
+    "uuid": "d5ed92f2-4d7a-4872-be75-fb90a9cbfe7b",
+    "missing": false
+  },
+  "/Users/apple/Documents/final/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/core/Constants.ts": {
+    "time": 1660791750000,
+    "uuid": "e2c5e27c-249a-4f08-82ca-76375f1fcf9b",
+    "missing": false
+  },
+  "/Users/apple/Documents/final/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/core/Error.ts": {
+    "time": 1660791750000,
+    "uuid": "dbfcc7b2-f7c3-49d8-9b26-42bb669674e2",
+    "missing": false
+  },
+  "/Users/apple/Documents/final/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/core/Events.ts": {
+    "time": 1660791750000,
+    "uuid": "699a731f-57fa-4f35-84b4-e63f9e620962",
+    "missing": false
+  },
+  "/Users/apple/Documents/final/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/core/HttpUtil.ts": {
+    "time": 1660791750000,
+    "uuid": "0e0ad16a-2232-4899-a465-b022288999d2",
+    "missing": false
+  },
+  "/Users/apple/Documents/final/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/core/UrlBuilder.ts": {
+    "time": 1661315642000,
+    "uuid": "4549ed84-505b-44dc-a9ea-f43be1120726",
+    "missing": false
+  },
+  "/Users/apple/Documents/final/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts.meta": {
+    "time": 1635572864000
+  },
+  "/Users/apple/Documents/final/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/api.meta": {
+    "time": 1635572864000
+  },
+  "/Users/apple/Documents/final/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/common.meta": {
+    "time": 1660791750000
+  },
+  "/Users/apple/Documents/final/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/core.meta": {
+    "time": 1635572864000
+  },
+  "/Users/apple/Documents/final/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/Xsolla.ts.meta": {
+    "time": 1678869276000
+  },
+  "/Users/apple/Documents/final/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/api/XsollaAuth.ts.meta": {
+    "time": 1678869276000
+  },
+  "/Users/apple/Documents/final/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/api/XsollaCart.ts.meta": {
+    "time": 1678869276000
+  },
+  "/Users/apple/Documents/final/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/api/XsollaCatalog.ts.meta": {
+    "time": 1678869276000
+  },
+  "/Users/apple/Documents/final/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/api/XsollaInventory.ts.meta": {
+    "time": 1678869276000
+  },
+  "/Users/apple/Documents/final/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/api/XsollaOrders.ts.meta": {
+    "time": 1678869276000
+  },
+  "/Users/apple/Documents/final/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/api/XsollaSubscriptions.ts.meta": {
+    "time": 1678869276000
+  },
+  "/Users/apple/Documents/final/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/api/XsollaUserAccount.ts.meta": {
+    "time": 1678869276000
+  },
+  "/Users/apple/Documents/final/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/common/BrowserUtil.ts.meta": {
+    "time": 1678869276000
+  },
+  "/Users/apple/Documents/final/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/common/CurrencyFormatter.ts.meta": {
+    "time": 1678869276000
+  },
+  "/Users/apple/Documents/final/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/common/NativeUtil.ts.meta": {
+    "time": 1678869276000
+  },
+  "/Users/apple/Documents/final/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/common/OrderCheckObject.ts.meta": {
+    "time": 1678869276000
+  },
+  "/Users/apple/Documents/final/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/common/OrderTracker.ts.meta": {
+    "time": 1678869276000
+  },
+  "/Users/apple/Documents/final/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/common/TokenParser.ts.meta": {
+    "time": 1678869276000
+  },
+  "/Users/apple/Documents/final/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/common/TokenStorage.ts.meta": {
+    "time": 1678869276000
+  },
+  "/Users/apple/Documents/final/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/core/Constants.ts.meta": {
+    "time": 1678869276000
+  },
+  "/Users/apple/Documents/final/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/core/Error.ts.meta": {
+    "time": 1678869276000
+  },
+  "/Users/apple/Documents/final/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/core/Events.ts.meta": {
+    "time": 1678869276000
+  },
+  "/Users/apple/Documents/final/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/core/HttpUtil.ts.meta": {
+    "time": 1678869276000
+  },
+  "/Users/apple/Documents/final/coco-poker/extensions/xsolla-commerce-sdk/assets/scripts/core/UrlBuilder.ts.meta": {
+    "time": 1678869276000
+  },
+  "/Users/apple/Documents/final/coco-poker/extensions/xsolla-commerce-sdk/assets/CHANGELOG.en.md": {
+    "time": 1675846434000,
+    "uuid": "650b8a10-77fa-49cb-b38f-0d97c57790e7",
+    "missing": false
+  },
+  "/Users/apple/Documents/final/coco-poker/extensions/xsolla-commerce-sdk/assets/CHANGELOG.zh.md": {
+    "time": 1675846434000,
+    "uuid": "a515a131-8195-4f80-88ce-75bd665c3547",
+    "missing": false
+  },
+  "/Users/apple/Documents/final/coco-poker/extensions/xsolla-commerce-sdk/assets/README.en.md": {
+    "time": 1660791750000,
+    "uuid": "514fb180-d9a1-40ce-b992-358eeb680855",
+    "missing": false
+  },
+  "/Users/apple/Documents/final/coco-poker/extensions/xsolla-commerce-sdk/assets/README.zh.md": {
+    "time": 1660791750000,
+    "uuid": "e3a09102-643d-4b84-acf5-b3f4ef30d2f3",
+    "missing": false
+  },
+  "/Users/apple/Documents/final/coco-poker/extensions/xsolla-commerce-sdk/assets/CHANGELOG.zh.md.meta": {
+    "time": 1678869276000
+  },
+  "/Users/apple/Documents/final/coco-poker/extensions/xsolla-commerce-sdk/assets/CHANGELOG.en.md.meta": {
+    "time": 1678869276000
+  },
+  "/Users/apple/Documents/final/coco-poker/extensions/xsolla-commerce-sdk/assets/README.zh.md.meta": {
+    "time": 1678869276000
+  },
+  "/Users/apple/Documents/final/coco-poker/extensions/xsolla-commerce-sdk/assets/README.en.md.meta": {
+    "time": 1678869276000
+  }
+}

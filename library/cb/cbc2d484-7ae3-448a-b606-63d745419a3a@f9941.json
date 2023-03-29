@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "RANK",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 276,
+      "height": 73
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 276,
+      "height": 73
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -138,
+        -36.5,
+        0,
+        138,
+        -36.5,
+        0,
+        -138,
+        36.5,
+        0,
+        138,
+        36.5,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        0,
+        73,
+        276,
+        73,
+        0,
+        0,
+        276,
+        0
+      ],
+      "nuv": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1
+      ],
+      "minPos": {
+        "x": -138,
+        "y": -36.5,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 138,
+        "y": 36.5,
+        "z": 0
+      }
+    },
+    "texture": "cbc2d484-7ae3-448a-b606-63d745419a3a@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

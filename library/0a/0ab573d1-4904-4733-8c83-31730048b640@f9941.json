@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "GirlBanker",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 952,
+      "height": 999
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 952,
+      "height": 999
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -476,
+        -499.5,
+        0,
+        476,
+        -499.5,
+        0,
+        -476,
+        499.5,
+        0,
+        476,
+        499.5,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        0,
+        999,
+        952,
+        999,
+        0,
+        0,
+        952,
+        0
+      ],
+      "nuv": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1
+      ],
+      "minPos": {
+        "x": -476,
+        "y": -499.5,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 476,
+        "y": 499.5,
+        "z": 0
+      }
+    },
+    "texture": "0ab573d1-4904-4733-8c83-31730048b640@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

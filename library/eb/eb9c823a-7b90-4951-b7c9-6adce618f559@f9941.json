@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dang xuat",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 1082,
+      "height": 176
+    },
+    "offset": {
+      "x": 0,
+      "y": 3.5
+    },
+    "originalSize": {
+      "width": 1082,
+      "height": 183
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -541,
+        -88,
+        0,
+        541,
+        -88,
+        0,
+        -541,
+        88,
+        0,
+        541,
+        88,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        0,
+        183,
+        1082,
+        183,
+        0,
+        7,
+        1082,
+        7
+      ],
+      "nuv": [
+        0,
+        0.03825136612021858,
+        1,
+        0.03825136612021858,
+        0,
+        1,
+        1,
+        1
+      ],
+      "minPos": {
+        "x": -541,
+        "y": -88,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 541,
+        "y": 88,
+        "z": 0
+      }
+    },
+    "texture": "eb9c823a-7b90-4951-b7c9-6adce618f559@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

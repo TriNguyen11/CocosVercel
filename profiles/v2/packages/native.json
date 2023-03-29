@@ -1,0 +1,106 @@
+{
+  "__version__": "1.0.2",
+  "builder": {
+    "taskOptionsMap": {
+      "1678425728378": {
+        "encrypted": false,
+        "xxteaKey": "ccKOSLTe5GSLsvTx",
+        "compressZip": false,
+        "JobSystem": "none",
+        "__version__": "1.0.2"
+      },
+      "1678440568537": {
+        "encrypted": false,
+        "xxteaKey": "428/hH55BLfbs1nw",
+        "compressZip": false,
+        "JobSystem": "none",
+        "__version__": "1.0.2"
+      },
+      "1678441047333": {
+        "encrypted": false,
+        "xxteaKey": "428/hH55BLfbs1nw",
+        "compressZip": false,
+        "JobSystem": "none",
+        "__version__": "1.0.2"
+      },
+      "1678816868688": {
+        "encrypted": false,
+        "xxteaKey": "87nnA8hG9KnbX48a",
+        "compressZip": false,
+        "JobSystem": "none",
+        "__version__": "1.0.2"
+      },
+      "1678820432067": {
+        "encrypted": false,
+        "xxteaKey": "87nnA8hG9KnbX48a",
+        "compressZip": false,
+        "JobSystem": "none",
+        "__version__": "1.0.2"
+      },
+      "1678876967031": {
+        "encrypted": false,
+        "xxteaKey": "66w13ESOZBrItuI6",
+        "compressZip": false,
+        "JobSystem": "none",
+        "__version__": "1.0.2"
+      },
+      "1678885164832": {
+        "encrypted": false,
+        "xxteaKey": "66w13ESOZBrItuI6",
+        "compressZip": false,
+        "JobSystem": "none",
+        "__version__": "1.0.2"
+      },
+      "1679506218899": {
+        "encrypted": false,
+        "xxteaKey": "323AXMt09Lybc+EK",
+        "compressZip": false,
+        "JobSystem": "none",
+        "__version__": "1.0.2"
+      },
+      "1679508011604": {
+        "encrypted": false,
+        "xxteaKey": "323AXMt09Lybc+EK",
+        "compressZip": false,
+        "JobSystem": "none",
+        "__version__": "1.0.2"
+      },
+      "1679510598037": {
+        "encrypted": false,
+        "xxteaKey": "323AXMt09Lybc+EK",
+        "compressZip": false,
+        "JobSystem": "none",
+        "__version__": "1.0.2"
+      },
+      "1679510644749": {
+        "encrypted": false,
+        "xxteaKey": "323AXMt09Lybc+EK",
+        "compressZip": false,
+        "JobSystem": "none",
+        "__version__": "1.0.2"
+      },
+      "1679547726335": {
+        "encrypted": false,
+        "xxteaKey": "d9vnFZe+lIh7tlUB",
+        "compressZip": false,
+        "JobSystem": "none",
+        "__version__": "1.0.2"
+      },
+      "1679552627498": {
+        "encrypted": false,
+        "xxteaKey": "d9vnFZe+lIh7tlUB",
+        "compressZip": false,
+        "JobSystem": "none",
+        "__version__": "1.0.2"
+      },
+      "1679553179955": {
+        "encrypted": false,
+        "xxteaKey": "d9vnFZe+lIh7tlUB",
+        "compressZip": false,
+        "JobSystem": "none",
+        "__version__": "1.0.2"
+      }
+    },
+    "__version__": "1.3.4"
+  }
+}

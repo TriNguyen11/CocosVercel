@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "disable bnt",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 961,
+      "height": 314
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 961,
+      "height": 314
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -480.5,
+        -157,
+        0,
+        480.5,
+        -157,
+        0,
+        -480.5,
+        157,
+        0,
+        480.5,
+        157,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        0,
+        314,
+        961,
+        314,
+        0,
+        0,
+        961,
+        0
+      ],
+      "nuv": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1
+      ],
+      "minPos": {
+        "x": -480.5,
+        "y": -157,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 480.5,
+        "y": 157,
+        "z": 0
+      }
+    },
+    "texture": "8a9af760-762c-4ed8-b3d7-78c113cc9a2e@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}
